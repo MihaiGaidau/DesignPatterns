@@ -13,6 +13,7 @@ public class DbSingleton {
 
 //        try{
 //            DriverManager.registerDriver(new org.apache.derby.iapi.jdbc.Driver42());
+//            org.apache.derby
 //        }catch (SQLException e){
 //            e.printStackTrace();
 //        }
