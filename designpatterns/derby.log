@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed Jul 15 10:03:23 EEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0173-5148-f906-00000e82f000 
+Wed Jul 15 10:04:28 EEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0173-5149-f6f7-00000eb42f38 
 on database directory memory:/home/ubuntu/gabi/DesignPatterns/designpatterns/codejava/webdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42a57993 
 Loaded from file:/home/ubuntu/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
 java.vendor=Oracle Corporation
